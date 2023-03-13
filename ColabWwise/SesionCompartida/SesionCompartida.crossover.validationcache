@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ValidationCache Version="1" SchemaVersion="103">
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Virtual Acoustics\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Triggers\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Switches\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\States\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\SoundBanks\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\SesionCompartida.wproj" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\SesionCompartida.crossover.wsettings" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Queries\Factory Queries.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Queries\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Presets\Factory Spatial Audio.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Presets\Factory Reflect.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Presets\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Modulators\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Mixing Sessions\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Metadata\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Game Parameters\Factory Motion.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Game Parameters\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Events\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Effects\Factory Reflect.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Effects\Factory Effects.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Effects\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Conversion Settings\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Control Surface Sessions\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Audio Devices\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Attenuations\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Actor-Mixer Hierarchy\Factory Motion.wwu" DateLow="1678737326" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\ColaboracionGitWwise\ColabWwise\SesionCompartida\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1678737326" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Desktop\Student Files\ali\gitHub\ColabWwise\SesionCompartida\Virtual Acoustics\Default Work Unit.wwu" DateLow="1678735808" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Desktop\Student Files\ali\gitHub\ColabWwise\SesionCompartida\Triggers\Default Work Unit.wwu" DateLow="1678735808" DateHigh="0"/>
 	<ValidationCacheItem File="Y:\Desktop\Student Files\ali\gitHub\ColabWwise\SesionCompartida\Switches\Default Work Unit.wwu" DateLow="1678735808" DateHigh="0"/>
